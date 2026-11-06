@@ -1,0 +1,7 @@
+split	is_fantom5_enhancer	loci
+test	0	71008
+test	1	1033
+train	0	331270
+train	1	4947
+valid	0	70971
+valid	1	1077

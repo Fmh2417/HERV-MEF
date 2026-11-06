@@ -1,0 +1,13 @@
+analysis_set	mark	peak_files
+non_tumor_training	DNase_fdr001	39
+non_tumor_training	H3K27ac	93
+non_tumor_training	H3K4me1	122
+non_tumor_training	H3K4me3	122
+non_tumor_training	H3K27me3	122
+non_tumor_training	H3K9me3	122
+tumor_external_projection	DNase_fdr001	0
+tumor_external_projection	H3K27ac	5
+tumor_external_projection	H3K4me1	5
+tumor_external_projection	H3K4me3	5
+tumor_external_projection	H3K27me3	5
+tumor_external_projection	H3K9me3	5

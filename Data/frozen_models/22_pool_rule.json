@@ -1,0 +1,8 @@
+{
+  "status": "FROZEN",
+  "pool_name": "FinalGlobal_Top10pct",
+  "fraction": 0.1,
+  "size_rule": "max(1, int(round(N * fraction)))",
+  "fraction_selection_performed": false,
+  "test_used": false
+}

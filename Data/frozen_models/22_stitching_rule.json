@@ -1,0 +1,12 @@
+{
+  "status": "FROZEN",
+  "inside_candidate_order": [
+    "FER score desc",
+    "Final Global desc",
+    "canonical_split_row_index asc",
+    "herv_internal_id asc"
+  ],
+  "outside_candidate_order": "preserve Final Global order exactly",
+  "numeric_score_mixing": false,
+  "test_used": false
+}

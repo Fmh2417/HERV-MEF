@@ -1,0 +1,25 @@
+{
+  "status": "FROZEN_FINAL_DEVELOPMENT_PRIMARY",
+  "selected_candidate_id": "A3_ALL38_PRIMARY_epoch_01",
+  "selected_arm": "A3_ALL38_PRIMARY",
+  "selected_epoch": 1,
+  "selected_model_type": "fer",
+  "A0_safe_fallback_selected": false,
+  "A3_FER_accepted": true,
+  "formal_primary_route": "A3_ALL38_PRIMARY",
+  "A1_A2_descriptive_only": true,
+  "validation_gold": {
+    "top0_5_hits": 104.0,
+    "top0_5_fe": 19.325781491798203,
+    "top1_hits": 182.0,
+    "top1_fe": 16.910058805323427,
+    "top5_hits": 458.0,
+    "top5_fe": 8.506051265236428,
+    "auprc": 0.8390324232522183,
+    "auprc_std": 0.006336407525811044,
+    "auroc": 0.8314355188981395,
+    "auroc_std": 0.005160202232631324
+  },
+  "final_global_candidate": "R4_ALL_COMPACT_bs64_epoch_24",
+  "test_used": false
+}
